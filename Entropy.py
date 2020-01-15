@@ -18,7 +18,6 @@ def entropy(data):
 
 def main():
     arr_x=[]
-    arr_y=[]
     rnd=random
     n=100
     for i in range(0,n):
